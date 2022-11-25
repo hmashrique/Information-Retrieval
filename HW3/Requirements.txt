@@ -1,0 +1,15 @@
+
+Problem 2:
+
+libraries required:
+
+from bs4 import BeautifulSoup
+import numpy as np
+import pandas as pd
+import re
+import requests
+import PyPDF2
+import random
+import string
+
+Run the code. Each run of code will generate pdf's (used for parsing the PDF's).

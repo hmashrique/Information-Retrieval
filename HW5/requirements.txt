@@ -1,0 +1,11 @@
+
+libraries :
+
+import re
+import os
+from nltk.stem.wordnet import WordNetLemmatizer
+
+Change the folder location before running (mentioned in code).
+
+Output will be inverted index of the vocabulary preprocessed.
+

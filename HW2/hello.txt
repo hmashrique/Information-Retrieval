@@ -1,0 +1,3 @@
+This program will create a new file named test.txt in the current directory if it does not exist. If it does exist, it is overwritten.
+
+We must include the newline characters ourselves to distinguish the different lines.

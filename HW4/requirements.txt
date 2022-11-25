@@ -1,0 +1,24 @@
+
+libraries:
+
+from enum import unique
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+import re
+import requests
+import random
+from nltk.tokenize import word_tokenize
+import os
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+import nltk
+from nltk.stem.snowball import SnowballStemmer
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+nltk.download('punkt')
+
+
+
+Run the code. It will create 10 .txt files in the working folder. All other things should run automatically.

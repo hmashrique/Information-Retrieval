@@ -1,0 +1,15 @@
+
+## IR-HW21
+
+Give the file(hello.txt) location as input and a destination location with the output file(readme.txt) 
+in it.
+Run the code.
+
+## IR-HW22
+
+libraries required:
+- beautifulsoup
+- numpy
+- pandas
+- re (regular expression)
+Run the code.

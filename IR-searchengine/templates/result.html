@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html >
+<head>
+<style>
+    .myDiv {
+        border: 5px;
+    }
+ </style>
+</head>
+
+<body>
+ <div class="myDiv">
+	<h1>Search Results for: {{ query }} </h1>
+    
+    <br>
+
+  <table>
+    <thead>
+      <tr>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for key in sorted.keys() %}
+     <tr>
+         <td><a href= {{ key }} target="_blank"> {{ key }} </a></td>
+     </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+    
+  <form action="{{ url_for('home')}}">
+    <button name="backbtn" type="submit">Search Again</button>
+  </form>
+  </div>
+</body>
+</html>

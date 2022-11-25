@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<!--[if IE 8]> <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->  <!--<![endif]-->
+  <head>    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WPD5W8R');</script>
+    <!-- End Google Tag Manager -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="editorURL" content="https://cleanslate.wvu.edu/sites/852/pages/49363/editor">
+    <script> document.getElementsByTagName('html')[0].classList.remove('no-js'); </script>
+    <script type="text/javascript" src="https://v2.libanswers.com/load_chat.php?hash=d9e5ba2c4a804212461b66b5af13bea0"></script>
+    
+    
+    
+      <title>404 Not Found | Libraries | West Virginia University</title>
+      <link rel="canonical" href="https://library.wvu.edu/404-not-found">
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="">
+
+    <meta property="og:title" content="Libraries | 404 Not Found">
+    <meta property="og:description" content="">
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://library.wvu.edu/404-not-found">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Libraries">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:title" content="404 Not Found">
+    <meta name="twitter:description" content="">
+
+    <link rel="stylesheet" href="/stylesheets/1659706434/styles.css" type="text/css">
+
+  
+
+  <style type="text/css" id="cs-custom-site-styles"><!-- Daily Hours Widget from LibCal-->
+.s-lc-w-today { border-spacing: 0; border-collapse: collapse; width: 100%; }.s-lc-w-today td, .s-lc-w-today th { padding: 8px 5px; }
+.s-lc-w-head { text-align: center; border-bottom: 1px solid #ddd; }
+.s-lc-w-loading { margin-top: 80px; text-align: center; }
+.s-lc-w-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
+.s-lc-w-btn { line-height: 1.5; border-radius: 3px; display: inline-block; padding: 3px 6px; margin-bottom: 0; font-size: 12px; font-weight: 400; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; user-select: none; border: 1px solid #ccc; color: #333; background-color: #fff; }
+.s-lc-w-btn:active, .s-lc-w-btn:hover { color: #333; background-color: #d4d4d4; border-color: #8c8c8c; }
+.s-lc-w-previous { float: left;}
+.s-lc-w-next { float: right; }
+.s-lc-w-location td { font-weight: bold; }
+.s-lc-w-department .s-lc-w-name { padding-left: 20px; }
+.s-lc-w-times { border-bottom: 1px solid #ddd; }
+.s-lc-w-today-view-link { text-decoration: none; }
+.s-lc-w-today-view-all { padding: 8px 5px; }
+
+
+/*********************************************************************
+    ULIB 300 page
+**********************************************************************/
+.qfilms {
+height: 215px;
+    width:360px;
+margin:5px;
+	display: inline-block;
+	
+}
+
+.h8 {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/h8color.jpg");
+	
+
+}
+
+.h8:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/h8image.jpg");
+	
+}
+
+.h8 p {
+    visibility: hidden;
+}
+
+.rd {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/rdcolor.jpg");
+	
+
+}
+
+.rd:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/rdimage.jpg");
+	
+}
+
+.rd p {
+    visibility: hidden;
+}
+
+.ib {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/igcolor.jpg");
+	
+
+}
+
+.ib p {
+    visibility: hidden;
+}
+
+.pf {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/pfcolor.jpg");
+	
+
+}
+
+.pf:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/pfimage.jpg");
+	
+}
+.pf p {
+    visibility: hidden;
+}
+
+.dp {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/dpcolor.jpg");
+	
+
+}
+
+.dp:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/dpimage.jpg");
+	
+}
+.dp p {
+    visibility: hidden;
+}
+
+.ib {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/igcolor.jpg");
+	
+
+}
+
+
+.ib:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/igimage.jpg");
+	
+}
+
+.kb {
+	
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/kbcolor.jpg");
+	
+
+}
+
+.kb:hover {
+	background-image: url("https://libapps.s3.amazonaws.com/accounts/138298/images/kbimage.jpg");
+	
+}
+
+.kb p {
+    visibility: hidden;
+}
+
+/* Multimedia Equipment Page */
+
+.pictures {
+  display: inline-block;
+  width: 135px;
+  height: 250px;
+  margin: .4em;
+}  
+
+.pictures p {
+    text-decoration: none;
+    text-align: center;
+    color: #337AB7;
+    font-size: .9em;
+}	
+
+
+</style>
+</head>
+<body class="backpage page--49363 page--404-not-found ">    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe aria-hidden="true" src="https://www.googletagmanager.com/ns.html?id=GTM-WPD5W8R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="cs-injection"></div>
+<a class="wvu-skip-nav" href="#maincontent">Skip to main content</a>
+
+    
+      
+      <div class="wvu-masthead wvu-masthead--852 wvu-masthead-- wvu-masthead--buttons ">
+  <div class="wvu-masthead__container">
+    <a class="wvu-masthead__logo" href="/"><span class="wvu-masthead__title">Libraries</span></a>
+
+
+    <div class="wvu-masthead__apply-links">
+      
+        <a href="https://westvirginia.libanswers.com/" class="button">Ask a Librarian</a>
+      
+      
+        <a href="https://libguides.wvu.edu/" class="button">Research Guides</a>
+      
+      
+        <a href="https://wvu.libcal.com/spaces?lid=4182&amp;gid=0" class="button">Study Rooms</a>
+      
+    </div>
+
+  </div> <!-- /.wvu-masthead-container -->
+</div> <!-- /.wvu-masthead -->
+
+    
+
+    
+      
+      <div class="wvu-nav wvu-nav--852">
+  <div class="wvu-nav__container">
+
+    <div class="wvu-nav__nav wvu-nav__nav--depth-2">
+      <button class="wvu-nav__search-toggle inactive-search" onclick="document.getElementsByClassName('wvu-masthead__search-slider')[0].classList.toggle('closed');">Toggle Search</button>
+      <ul class="wvu-nav__items nav-collapse">
+<li class="more">
+<a href="https://library.wvu.edu/about">About Us</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li><a href="https://library.wvu.edu/about/accessibility">Accessibility</a></li>
+<li><a href="https://library.wvu.edu/about/directions">Directions &amp; Parking</a></li>
+<li><a href="https://library.wvu.edu/about/diversity">Diversity Statement</a></li>
+<li><a href="https://library.wvu.edu/about/employment">Employment</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchrepository.wvu.edu/lib-ex_libris/">Ex Libris</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://directory.lib.wvu.edu/">Faculty and Staff</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvu.stackmap.com/explore/">Floor Maps &amp; Call Number Locations</a></li>
+<li><a href="https://library.wvu.edu/about/dean">From the Dean</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvu.libcal.com/hours">Hours</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://news.lib.wvu.edu/">News</a></li>
+<li class="more"><a href="https://library.wvu.edu/about/policies">Policies</a></li>
+<li><a href="https://library.wvu.edu/about/strategic-roadmap">Strategic Roadmap</a></li>
+</ul>
+</li>
+<li class="more">
+<a href="https://library.wvu.edu/collections">Collections</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li class="more"><a href="https://library.wvu.edu/collections/collection-development-policy">Collection Development Policy</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://libraries.sandbox.wvu.edu/collections/collection-development-policy#gifts">Gifts Policy</a></li>
+<li><a href="https://library.wvu.edu/collections/licensing-principles">Licensing Principles for Vendors</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchrepository.wvu.edu/">Research Repository</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://libwvu.on.worldcat.org">Search Our Catalog</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://directory.lib.wvu.edu/subjects">Subject Liaisons</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvulib.wufoo.com/forms/suggest-a-purchase-or-a-product-trial/">Suggest a Purchase</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://libraries.sandbox.wvu.edu/collections/collection-development-policy#trial">Trial Policy</a></li>
+</ul>
+</li>
+<li><a class="cs-external-link " aria-label="databases application" title="" target="_self" href="https://databases.lib.wvu.edu">Databases</a></li>
+<li class="more">
+<a href="https://library.wvu.edu/initiatives">Initiatives</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li><a class="cs-external-link " title="" target="_self" href="https://exhibits.lib.wvu.edu/">Art in the Libraries</a></li>
+<li class="more"><a href="https://library.wvu.edu/initiatives/awards">Awards</a></li>
+<li class="more"><a href="https://library.wvu.edu/initiatives/open-access">Open Access Research Publishing</a></li>
+<li class="more"><a href="https://library.wvu.edu/initiatives/oer">Open Education Resources</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchcommons.lib.wvu.edu/">Research Commons</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchrepository.wvu.edu/">Research Repository</a></li>
+<li><a href="https://library.wvu.edu/initiatives/residency">Residency Program</a></li>
+<li class="more"><a href="https://library.wvu.edu/initiatives/student-advisory-group">Student Advisory Group </a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://library.wvu.edu/services/veterans">Student Veteran Program</a></li>
+</ul>
+</li>
+<li class="more">
+<a aria-label="Libraries information" href="https://library.wvu.edu/libraries">Libraries</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li class="more"><a href="https://library.wvu.edu/libraries/downtown">Downtown Campus Library</a></li>
+<li class="more"><a href="https://library.wvu.edu/libraries/evansdale">Evansdale Library</a></li>
+<li class="more"><a href="https://library.wvu.edu/libraries/health-sciences-library">Health Sciences Library</a></li>
+<li class="more"><a href="https://library.wvu.edu/libraries/charleston">Health Sciences Library Charleston</a></li>
+<li><a href="https://library.wvu.edu/libraries/depository">Libraries Depository</a></li>
+<li class="more"><a href="https://library.wvu.edu/libraries/potomacstatecollege">Potomac State College Library</a></li>
+<li class="more"><a href="https://library.wvu.edu/libraries/beckley">WVU Tech Library</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvrhc.lib.wvu.edu">West Virginia &amp; Regional History Center</a></li>
+</ul>
+</li>
+<li class="more">
+<a href="https://library.wvu.edu/research-help">Research Help</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li><a class="cs-external-link " title="" target="_self" href="https://westvirginia.libanswers.com/">Ask A Librarian</a></li>
+<li><a href="https://library.wvu.edu/research-help/citation-help">Citation Help</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvulib.wufoo.com/forms/research-assistance-and-consultations/">Research Consultations</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://libguides.wvu.edu/">Research Guides</a></li>
+<li><a class="cs-internal-link " title="" target="_self" href="https://library.wvu.edu/research-help">Research Help</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://directory.lib.wvu.edu/subjects">Subject Liaisons</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchcommons.lib.wvu.edu/workshops">Workshops</a></li>
+</ul>
+</li>
+<li class="more">
+<a aria-label="library services" href="https://library.wvu.edu/services">Services</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li><a href="https://library.wvu.edu/services/alumni">Alumni</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://libwvu.account.worldcat.org/account">Book Renewals</a></li>
+<li class="more"><a href="https://library.wvu.edu/services/borrowing">Borrowing</a></li>
+<li class="more"><a href="https://library.wvu.edu/services/computers-and-laptops">Computers and Laptops</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://reserves.lib.wvu.edu/">Course Reserves</a></li>
+<li><a href="https://library.wvu.edu/services/distance-learning">Distance Learning</a></li>
+<li><a href="https://library.wvu.edu/services/faculty">Faculty and Staff Resources</a></li>
+<li><a href="https://library.wvu.edu/services/interlibrary-loan">Interlibrary Loan</a></li>
+<li><a href="https://library.wvu.edu/services/off-campus">Off Campus Resources</a></li>
+<li><a href="https://library.wvu.edu/services/p20">P20 Student Access</a></li>
+<li><a href="https://library.wvu.edu/services/patents-and-trademarks">Patents and Trademarks</a></li>
+<li class="more"><a href="https://library.wvu.edu/services/printing">Printing, Copying, and Scanning</a></li>
+<li><a href="https://library.wvu.edu/services/retirees">Retired Employee and Emeritus Faculty Access</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvu.libcal.com/spaces?lid=4182&amp;gid=0">Study Room Reservations</a></li>
+<li><a href="https://library.wvu.edu/services/veterans">Services for Student Veterans</a></li>
+</ul>
+</li>
+<li class="more">
+<a href="https://library.wvu.edu/teach-learn">Teaching &amp; Learning</a><ul class="cs-generatedNav-nested-sub-menu cs-generatedNav-nested-sub-menu--level-1">
+<li><a href="https://library.wvu.edu/teach-learn/graduate-student-immersion">Graduate Student Immersion</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvulib.wufoo.com/forms/r1avejbl1d87ndm/">Instruction Request Form</a></li>
+<li class="more"><a href="https://library.wvu.edu/teach-learn/ocis">Office of Curriculum and Instructional Support</a></li>
+<li><a href="https://library.wvu.edu/teach-learn/plagiarism-avoidance-resources">Plagiarism Avoidance Resources</a></li>
+<li class="more"><a href="https://library.wvu.edu/teach-learn/ulib-courses">ULIB Courses</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://researchcommons.lib.wvu.edu/workshops">Workshops</a></li>
+</ul>
+</li>
+<li class="more"><a aria-label="give to WVU Libraries" href="https://library.wvu.edu/give">Give</a></li>
+<li><a class="cs-external-link " title="" target="_self" href="https://wvu.libcal.com/calendar/">Events</a></li>
+</ul>
+    </div>
+
+  </div>
+</div>
+
+    
+
+    
+    <!-- Slots 01 - 03 -->
+
+
+
+
+  
+
+<div class="wvu-backpage-header wvu-backpage-header--852" style="background-image: url(/files/1d871969-635b-4129-82d3-c573e0e927c2/1780x580?cb=0bb3bd99439ccecc8c039f0bcbbd4374); ">
+  <div class="wvu-breadcrumbs wvu-breadcrumbs--852 ">
+  <div class="wvu-breadcrumbs__container">
+    <ul class="wvu-breadcrumbs__crumbs">
+<li><a href="https://library.wvu.edu/home">Home</a></li>
+<li class="active">404 Not Found</li>
+</ul>
+  </div>
+</div>
+
+  <div class="wvu-backpage-header__container">
+    
+    <h1><span>404 Not Found</span></h1>
+    
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="wvu-container">
+
+    <main id="maincontent" class="ERROR: Custom data for 'bgcolor_backpage' does not exist. background main  ">
+
+      
+
+      <p>Uh oh, you've stumbled upon a page that we couldn't find. Double check the URL to make sure there are no typos. Perhaps try searching for the page on this site. If you still can't find it, we'd appreciate a heads-up. Report the problem using our <a href="https://wvulib.wufoo.com/forms/wqz5txc1uz3hkr/">Contact Us form</a> with the page name and this URL.<br></p>
+<p>
+	Other things to try</p>
+<ol>
+	<li>
+		<form action="http://search.wvu.edu/search" method="get">
+			<input name="as_sitesearch" type="hidden" value="library.wvu.edu"> <input name="client" type="hidden" value="default_frontend"> <input name="output" type="hidden" value="xml_no_dtd"> <input name="proxystylesheet" type="hidden" value="default_frontend"> <label for="siteSearchInput" style="display:inline;"> Search Our Site: </label> <input id="siteSearchInput" name="q" style="display:inline;" type="search" value=""> <input type="submit" value="Search"> </form>
+	</li>
+	<li>
+		<p>
+			If you were using a search or a bookmark to find what you were looking for, try returning to the <a href="https://library.wvu.edu/home" data-page-id="49362">homepage</a> and navigate from there.</p>
+	</li>
+	<li>
+		<p>
+			Use our Live Chat <a href="https://westvirginia.libanswers.com/">Ask-a-Librarian</a> service to seek assistance.</p>
+</li>
+	<li>
+		<p>Were you looking for one of our Top Resources?  If so, try one of the links below.</p>
+		<ul>
+			<li>
+				<a href="https://libwvu.on.worldcat.org/" title="MountainLynx Catalog. Find books, videos, music etc.">Library Catalog</a>
+				<aside>
+					Find books, DVDs, newspapers and more</aside>
+			</li>
+			<li>
+				<a href="https://library.wvu.edu/services/borrowing" data-page-id="84999">Borrow From Other Libraries</a>
+				<aside>
+					Borrow from libraries worldwide</aside>
+			</li>
+			<li>
+				<a href="https://ereserves.lib.wvu.edu" title="Access course reserves, Closed Reserves at Library service desks">Course Reserves</a>
+				<aside>
+					Find course materials on reserve online and at the libraries.</aside>
+			</li>
+			<li>
+				<a href="https://databases.lib.wvu.edu" title="Access databases by subject, title, or format ">Databases</a>
+				<aside>
+					Find articles, eBooks, data and other resources</aside>
+			</li>
+			<li>
+				<a href="https://databases.lib.wvu.edu/connect/1440524960" title="Connect to over 40,000 electronic journals, magazines, and newspapers">eJournals, Magazines, and Newspapers</a>
+				<aside>
+					Search eJournals by title or browse by title or subject</aside>
+			</li>
+			<li>
+				<a href="http://libguides.wvu.edu/" title="Library research guides by subject">Research Guides</a>
+				<aside>
+					Find guides on a subject or specific course</aside>
+			</li>
+		</ul>
+	</li>
+</ol>
+    </main>
+
+    
+  <aside class="wvu-sidebar wvu-sidebar--852">
+
+    
+
+    
+      
+      <div class="wvu-sub-nav">
+        
+      </div> <!-- /.wvu-sub-nav -->
+    
+
+    
+
+  </aside>
+
+
+
+  </div> <!-- /.wvu-container -->
+
+  
+
+
+
+
+<!-- Slots 04 - 10 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Slots -->
+
+
+
+
+
+
+
+
+
+
+    
+      <div class="wvu-footer wvu-footer--852 wvu-blue background">
+  <div class="wvu-footer__container">
+    <div class="wvu-contact">
+  <a href="https://library.wvu.edu/">WVU Libraries</a>
+<div>West Virginia University </div>
+<div>1549 University Ave. | P.O. Box 6069 </div>
+<div>Morgantown, WV 26506-6069 </div>
+<div>Phone: 
+  <a href="tel:1-304-293-4040">1-304-293-4040</a>
+</div>
+<div>Fax: <a href="tel:1-304-293-6638">1-304-293-6638</a>
+</div>
+<div>Email: <a href="mailto:LibraryDeanOffice@mail.wvu.edu">LibraryDeanOffice@mail.wvu.edu</a>
+</div>
+</div> <!-- /.wvu-contact -->
+    <div class="wvu-credits">
+  <ul>
+    <li><a href="https://about.wvu.edu/wvu-facts">Accreditations</a></li>
+    <li><a href="https://webstandards.wvu.edu">Web Standards</a></li>
+    <li><a href="https://www.wvu.edu/privacy">Privacy Notice</a></li>
+    <li><a href="mailto:web_services@mail.wvu.edu">Questions or Comments?</a></li>
+  </ul>
+
+  <p>© 2022 West Virginia University. WVU is an EEO/Affirmative Action employer — Minority/Female/Disability/Veteran.
+    <span class="wvu-credits__last-edited">Last updated on August 13, 2019.</span>
+  </p>
+</div> <!-- /.wvu-credits -->
+
+    <div class="wvu-icons">
+  <ul class="wvu-links">
+    <li class="first"><a href="https://www.wvu.edu/SiteIndex/">A-Z Site Index</a></li>
+    <li><a href="https://campusmap.wvu.edu">Campus Map</a></li>
+    <li><a href="https://careers.wvu.edu/career-opportunities">WVU Careers</a></li>
+    <li><a href="https://directory.wvu.edu">Directory</a></li>
+  </ul>
+  <ul class="wvu-links">
+    <li><a href="https://give.wvu.edu/">Give</a></li>
+    <li><a href="https://careerservices.wvu.edu/students/handshake-login">Handshake</a></li>
+    <li><a href="https://alert.wvu.edu/">WVU Alert</a></li>
+    <li><a href="https://wvutoday.wvu.edu">WVU Today</a></li>
+    <li><a href="https://portal.wvu.edu">WVU Portal</a></li>
+  </ul>
+
+  <ul class="wvu-social">
+    <li><a class="wvu-facebook" href="https://www.facebook.com/wvumountaineers">WVU on Facebook</a></li>
+    <li><a class="wvu-twitter" href="https://twitter.com/WestVirginiaU">WVU on Twitter</a></li>
+    <li><a class="wvu-youtube" href="https://www.youtube.com/user/westvirginiau">WVU on YouTube</a></li>
+  </ul>
+</div> <!-- /.wvu-icons -->
+
+  </div>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+      <script src="https://fast.fonts.net/jsapi/3f7b1335-4c99-4404-92cf-3ba0e32e8f17.js" defer></script> 
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" defer></script>
+      <script>window.jQuery || document.write('<script src="https://code.wvu.edu/public/vendor/jquery/1.11.1/jquery.min.js" defer><\/script>')</script>
+      <script src="/javascripts/1659706434/all.js" defer></script>
+    
+
+    
+      
+    
+
+      <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-56217344-2', 'auto');
+      ga('require', 'linkid');
+      ga('set', 'forceSSL', true);
+      ga('send', 'pageview');
+    </script>
+</body>
+<!-- Generated by cs-prod-app-1d-68-30 at 2022-11-17 16:10:31 -0500 -->
+</html>
