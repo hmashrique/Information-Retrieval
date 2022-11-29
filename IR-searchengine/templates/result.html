@@ -5,33 +5,42 @@
     .myDiv {
         border: 5px;
     }
+    .results {
+  display: flex;
+  justify-content: center;
+}
+    H1 { text-align: center }
  </style>
 </head>
 
 <body>
  <div class="myDiv">
 	<h1>Search Results for: {{ query }} </h1>
+  <br>
+   <div class="results">
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for key in sorted.keys() %}
+        <tr>
+            <td><a href= {{ key }} target="_blank"> {{ key }} </a></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+   </div> 
     
-    <br>
 
-  <table>
-    <thead>
-      <tr>
-        <th>URL</th>
-      </tr>
-    </thead>
-    <tbody>
-    {% for key in sorted.keys() %}
-     <tr>
-         <td><a href= {{ key }} target="_blank"> {{ key }} </a></td>
-     </tr>
-    {% endfor %}
-    </tbody>
-  </table>
-    
-  <form action="{{ url_for('home')}}">
-    <button name="backbtn" type="submit">Search Again</button>
-  </form>
+  <div class="results">
+    <form action="{{ url_for('home')}}">
+      <button name="backbtn" type="submit" style="text-align: center;">Search Again</button>
+    </form>
+  </div>  
+  
   </div>
 </body>
 </html>

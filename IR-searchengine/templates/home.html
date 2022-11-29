@@ -14,23 +14,34 @@
 <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
-  
+<style>
+.container {
+  display: flex;
+  justify-content: center;
+}
+H1 { text-align: center }
+</style>  
 </head>
 
 <body>
  <div>
-	<h1>Search Engine</h1>
-  <form action="{{ url_for('predict')}}" method="post">
+    <h1>UofM Search Engine</h1>
+    <div class="container">
+      <form action="{{ url_for('predict')}}" method="post">
 
-    <label for="fname">Enter your Search:</label><br>
-    <input type="text" name="query" required="required" />
-    <button type="submit" class="btn btn-primary btn-block btn-large">Search</button>
-  </form>
+        <label for="fname">Enter your Search:</label><br>
+        <br>
+        <input type="text" name="query" required="required" style="width: 200px; height: 50px;"/><br>
+        <br>
+        <button type="submit" class="btn btn-primary btn-block btn-large" style="height: 50px;">Search</button>
+      </form>
+  </div>
+  
   <br>
 
   <!-- {{ prediction }} -->
 
-  </div>
+ </div>
 </body>
 </html>
 

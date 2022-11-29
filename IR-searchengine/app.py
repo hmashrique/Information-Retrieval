@@ -34,9 +34,12 @@ def predict():
     ############################################    
 
     ### PROCESSING THE QUERY STRING
-    
+
     ## parse the query string into words
-    parse_query=query_text.split(" ") ## tokenize the query into words
+    user_query=query_text.split(" ") ## tokenize the query into words
+    
+    ## make it lower case
+    parse_query= [i.lower() for i in user_query]
     
     ## get the query words in dictionary
     query_dict={}
@@ -133,7 +136,7 @@ def predict():
 
     
 
-    return render_template('result.html', sorted= sorted_dic, query=query_text)
+    return render_template('result.html', sorted= sorted_dic, query= query_text)
 
 
 if __name__ == "__main__":
